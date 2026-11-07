@@ -48,38 +48,36 @@ import pygame
 # ======================================================================
 #  🎮 PYTHON GAME LAB - HER MAA DU AENDRE KODEN!
 # ======================================================================
-# RET KUN TAL OG TEKST I MISSIONERNE HER. LAD RESTEN VAERE.
+# RET KUN TAL OG TEKST I MISSIONERNE.
 # Sådan gør du: 1) Ændr EET tal  2) Ctrl+S  3) F5  4) Spil!
 # Går noget galt? Tryk Ctrl+Z og prøv igen.
 
-# ⭐ DE FEM MISSIONER - tag dem i dit eget tempo.
+# 
 
 # 🎯 1. Giv spillet et navn
 # Skriv dit eget spilnavn.
 WINDOW_TITLE = "Mit klodsspil"
 
 # 🎯 2. Kæmpe-bat
-# Prøv bredde 80, 110 og 180.
+# Prøv bredde 80, 180.
 PADDLE_WIDTH = 110
 
 # Ekstra liv! Prøv 1, 3 og 8.
-STARTING_LIVES = 3
+STARTING_LIVES = 5
 
 # 🎯 3. Turbo-bold
 # Prøv fart 4, 6 og 9.
-BALL_INITIAL_SPEED = 6
+BALL_INITIAL_SPEED = 5
 
 # 🎯 4. Byg din egen mur
 # Prøv 3 eller 6 rækker.
-BRICK_ROWS = 6
+BRICK_ROWS = 4
 
-# Ekstra: prøv også BRICK_COLS herunder.
 
 # 🎯 5. Superpoint
 # Prøv 5, 10 eller 50 point per klods.
-POINTS_PER_BRICK = 10
+POINTS_PER_BRICK = 3
 
-# ⭐ BONUS - til dig, der vil lave dit eget SUPERSPIL!
 
 # 🚀 6. Farvekunst
 # Skift de tre tal i COLOR_BALL (0 til 255).
@@ -104,11 +102,9 @@ if SVAER:
 else:
     PADDLE_SPEED = 11
 
-# Ekstra: Prøv 6 eller 10 kolonner. Hvor mange klodser er der?
-BRICK_COLS = 10
+# Prøv 6 eller 10 kolonner. Hvor mange klodser er der?
+BRICK_COLS = 3
 
-# 🏆 FINALEN: Lav en NEM og en SVAER version. Lad en ven teste!
-# ======================================================================
 
 
 
