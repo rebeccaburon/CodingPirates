@@ -47,7 +47,7 @@ import sys
 # ======================================================================
 #  🎮 PYTHON GAME LAB - HER MAA DU AENDRE KODEN!
 # ======================================================================
-# RET KUN TAL OG TEKST I MISSIONERNE HER. LAD RESTEN VAERE.
+# RET KUN TAL OG TEKST I MISSIONERNE HER.
 # Sådan gør du: 1) Ændr EET tal  2) Ctrl+S  3) F5  4) Spil!
 # Går noget galt? Tryk Ctrl+Z og prøv igen.
 
